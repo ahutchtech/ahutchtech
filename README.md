@@ -1,5 +1,5 @@
 #  Aaron Hutchings
-### Solutions Architect / Full-Stack Engineer focused on AI, cloud, and automation.
+### Solutions Architect / Full-Stack Engineer focused on AI, cloud, security, automation, and UX\UI.
 
 ---
 
